@@ -64,7 +64,7 @@ namespace SysBot.Pokemon.Dodo
             }
             else if (typeof(T) == typeof(PK9))
             {
-                SendChannelMessage("当前版本为朱紫,如需上传PK文件,请上传PK9文件", channelId);
+                SendChannelMessage("当前版本为朱紫,如需上传PK文件,请上传PK9文件,测试", channelId);
             }
         }
 
